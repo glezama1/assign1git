@@ -1,4 +1,7 @@
 # assign1git
 Gustavo Lezama
 First comment
-testbranch change
+<<<<<<< HEAD
+This is a change on newbranch
+=======
+>>>>>>> main
